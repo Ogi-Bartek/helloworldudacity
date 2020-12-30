@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'ogiapp'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_ad328bb5dade44c097e76d7ff14ecca2 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1ccb182f2dc54480a6339d5f5788d49c }}
